@@ -17,7 +17,6 @@ Description <textarea name="desc"></textarea><br>
 <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
 </head>
 <body align="center">
-
 <h1>Register Problem</h1>
 <form class="pure-form pure-form-aligned" method = "post" action="comp_reg.php" >
     <fieldset>
